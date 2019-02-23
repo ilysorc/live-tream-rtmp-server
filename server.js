@@ -26,7 +26,7 @@ global.appRoot = path.resolve(__dirname);
 
 mongoose.connect(
   config.get('DB_STRING'),
-  { useNewUrlParser: true, user: 'admin', pass: '123456' },
+  { useNewUrlParser: true, user: 'rtmp', pass: 'Abc123456' },
   err => {
     if (err) {
       console.log(err);
