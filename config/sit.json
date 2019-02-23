@@ -3,5 +3,5 @@
     "PORT": 3333,
     "NAME": "localhost"
   },
-  "DB_STRING": "mongodb://127.0.0.1:27017/livestream?authSource=admin"
+  "DB_STRING": "mongodb://ds349045.mlab.com:49045/rtmp"
 }
