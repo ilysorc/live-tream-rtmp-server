@@ -18,6 +18,7 @@
     "mongoose": "^5.2.7",
     "node-media-server": "^1.4.3",
     "rtmp-server": "^0.2.0",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.1.1",
+    "pm2": "3.x"
   }
 }
